@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+  <section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+    <language id="com.ti.ccstudio.core.TIASMLanguage" name="Assembly Source File">
+      <includepath>Debug/${COM_TI_SIMPLELINK_MSP432_SDK_INCLUDE_PATH}</includepath>
+      <includepath>C:/Users/cesar/Documents/GitHub/mspCPP</includepath>
+      <includepath>C:/Users/cesar/Documents/GitHub/mspCPP/Debug</includepath>
+      <includepath>C:/ti/simplelink_msp432p4_sdk_3_40_01_02/source</includepath>
+      <includepath>C:/ti/simplelink_msp432p4_sdk_3_40_01_02/kernel/nortos</includepath>
+      <includepath>C:/ti/simplelink_msp432p4_sdk_3_40_01_02/kernel/nortos/posix</includepath>
+      <includepath>C:/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/newlib-nano</includepath>
+      <includepath>C:/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/kissfft</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/gemmlowp</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/flatbuffers/include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/ruy</includepath>
+      <includepath workspace_path="true">/${ProjName}/micro_speech</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis/CMSIS/Core/Include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis/CMSIS/DSP/Include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis/CMSIS/NN/Include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis/Device/ARM/ARMCM4/Include</includepath>
+      <includepath>C:/ti/simplelink_msp432p4_sdk_3_40_01_02/source/third_party/CMSIS/Include</includepath>
+    </language>
+    <language id="com.ti.ccstudio.core.TIASMLanguage" name="Assembly Source File">
+      <includepath>Debug/${COM_TI_SIMPLELINK_MSP432_SDK_INCLUDE_PATH}</includepath>
+      <includepath>C:/Users/cesar/Documents/GitHub/mspCPP</includepath>
+      <includepath>C:/Users/cesar/Documents/GitHub/mspCPP/Debug</includepath>
+      <includepath>C:/ti/simplelink_msp432p4_sdk_3_40_01_02/source</includepath>
+      <includepath>C:/ti/simplelink_msp432p4_sdk_3_40_01_02/kernel/nortos</includepath>
+      <includepath>C:/ti/simplelink_msp432p4_sdk_3_40_01_02/kernel/nortos/posix</includepath>
+      <includepath>C:/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/newlib-nano</includepath>
+      <includepath>C:/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/kissfft</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/gemmlowp</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/flatbuffers/include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/ruy</includepath>
+      <includepath workspace_path="true">/${ProjName}/micro_speech</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis/CMSIS/Core/Include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis/CMSIS/DSP/Include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis/CMSIS/NN/Include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis/Device/ARM/ARMCM4/Include</includepath>
+      <includepath>C:/ti/simplelink_msp432p4_sdk_3_40_01_02/source/third_party/CMSIS/Include</includepath>
+    </language>
+    <language id="com.ti.ccstudio.core.TIGPPLanguage" name="C++ Source File">
+      <includepath>Debug/${COM_TI_SIMPLELINK_MSP432_SDK_INCLUDE_PATH}</includepath>
+      <includepath>C:/Users/cesar/Documents/GitHub/mspCPP</includepath>
+      <includepath>C:/Users/cesar/Documents/GitHub/mspCPP/Debug</includepath>
+      <includepath>C:/ti/simplelink_msp432p4_sdk_3_40_01_02/source</includepath>
+      <includepath>C:/ti/simplelink_msp432p4_sdk_3_40_01_02/kernel/nortos</includepath>
+      <includepath>C:/ti/simplelink_msp432p4_sdk_3_40_01_02/kernel/nortos/posix</includepath>
+      <includepath>C:/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/newlib-nano</includepath>
+      <includepath>C:/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/kissfft</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/gemmlowp</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/flatbuffers/include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/ruy</includepath>
+      <includepath workspace_path="true">/${ProjName}/micro_speech</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis/CMSIS/Core/Include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis/CMSIS/DSP/Include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis/CMSIS/NN/Include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis/Device/ARM/ARMCM4/Include</includepath>
+      <includepath>C:/ti/simplelink_msp432p4_sdk_3_40_01_02/source/third_party/CMSIS/Include</includepath>
+    </language>
+    <language id="com.ti.ccstudio.core.TIGCCLanguage" name="C Source File">
+      <includepath>Debug/${COM_TI_SIMPLELINK_MSP432_SDK_INCLUDE_PATH}</includepath>
+      <includepath>C:/Users/cesar/Documents/GitHub/mspCPP</includepath>
+      <includepath>C:/Users/cesar/Documents/GitHub/mspCPP/Debug</includepath>
+      <includepath>C:/ti/simplelink_msp432p4_sdk_3_40_01_02/source</includepath>
+      <includepath>C:/ti/simplelink_msp432p4_sdk_3_40_01_02/kernel/nortos</includepath>
+      <includepath>C:/ti/simplelink_msp432p4_sdk_3_40_01_02/kernel/nortos/posix</includepath>
+      <includepath>C:/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include/newlib-nano</includepath>
+      <includepath>C:/ti/ccs1260/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/arm-none-eabi/include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/kissfft</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/gemmlowp</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/flatbuffers/include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/ruy</includepath>
+      <includepath workspace_path="true">/${ProjName}/micro_speech</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis/CMSIS/Core/Include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis/CMSIS/DSP/Include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis/CMSIS/NN/Include</includepath>
+      <includepath workspace_path="true">/${ProjName}/third_party/cmsis/Device/ARM/ARMCM4/Include</includepath>
+      <includepath>C:/ti/simplelink_msp432p4_sdk_3_40_01_02/source/third_party/CMSIS/Include</includepath>
+    </language>
+    <language id="com.ti.ccstudio.core.TICMDLanguage" name="Linker Command File"/>
+    <language id="com.ti.ccstudio.core.TICMDLanguage" name="Linker Command File"/>
+    <language id="com.ti.ccstudio.core.TICMDLanguage" name="Linker Command File"/>
+  </section>
+  <section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+    <language id="com.ti.ccstudio.core.TIASMLanguage" name="Assembly Source File">
+      <macro>
+        <name>${COM_TI_SIMPLELINK_MSP432_SDK_SYMBOLS}</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>NDEBUG</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>TF_LITE_STATIC_MEMORY</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>CMSIS_NN</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>CMSIS_DEVICE_ARM_CORTEX_M_XX_HEADER_FILE</name>
+        <value>\"ARMCM4_FP.h\"</value>
+      </macro>
+    </language>
+    <language id="com.ti.ccstudio.core.TIASMLanguage" name="Assembly Source File">
+      <macro>
+        <name>${COM_TI_SIMPLELINK_MSP432_SDK_SYMBOLS}</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>NDEBUG</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>TF_LITE_STATIC_MEMORY</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>CMSIS_NN</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>CMSIS_DEVICE_ARM_CORTEX_M_XX_HEADER_FILE</name>
+        <value>\"ARMCM4_FP.h\"</value>
+      </macro>
+    </language>
+    <language id="com.ti.ccstudio.core.TIGPPLanguage" name="C++ Source File">
+      <macro>
+        <name>${COM_TI_SIMPLELINK_MSP432_SDK_SYMBOLS}</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>NDEBUG</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>TF_LITE_STATIC_MEMORY</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>CMSIS_NN</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>CMSIS_DEVICE_ARM_CORTEX_M_XX_HEADER_FILE</name>
+        <value>\"ARMCM4_FP.h\"</value>
+      </macro>
+    </language>
+    <language id="com.ti.ccstudio.core.TIGCCLanguage" name="C Source File">
+      <macro>
+        <name>${COM_TI_SIMPLELINK_MSP432_SDK_SYMBOLS}</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>NDEBUG</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>TF_LITE_STATIC_MEMORY</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>CMSIS_NN</name>
+        <value/>
+      </macro>
+      <macro>
+        <name>CMSIS_DEVICE_ARM_CORTEX_M_XX_HEADER_FILE</name>
+        <value>\"ARMCM4_FP.h\"</value>
+      </macro>
+    </language>
+    <language id="com.ti.ccstudio.core.TICMDLanguage" name="Linker Command File"/>
+    <language id="com.ti.ccstudio.core.TICMDLanguage" name="Linker Command File"/>
+    <language id="com.ti.ccstudio.core.TICMDLanguage" name="Linker Command File"/>
+  </section>
+</cdtprojectproperties>
